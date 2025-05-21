@@ -2,7 +2,7 @@
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Date:
-## Reg. No.
+## Reg. No: 212222110016
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -61,6 +61,92 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+
+##  Prompting Techniques (Patterns)
+| Technique                      | Description                                  | Use Case                                 |
+| ------------------------------ | -------------------------------------------- | ---------------------------------------- |
+| **1. Query Decomposition**     | Break tasks into subtasks                    | Detailed reports, multi-faceted analysis |
+| **2. Decision-Making Prompts** | Guide model to evaluate and choose           | Case studies, strategic content          |
+| **3. Semantic Filtering**      | Apply constraints (facts, tone, date, scope) | Academic or evidence-based writing       |
+| **4. Style Prompting**         | Specify tone, voice, or genre                | Creative or brand-aligned content        |
+
+
+## Use Case: Topic = AI in Education
+
+Let’s use the topic "The Role of AI in Education" to generate four types of content using four different prompting patterns
+
+### 1. Report Using Query Decomposition
+#### Prompt:
+
+Step 1: List 5 key ways AI is transforming education in 2025.
+Step 2: Identify 3 potential challenges educators face with AI adoption.
+Step 3: Recommend 3 actionable strategies for policymakers.
+Step 4: Combine all insights into a structured report with headings.
+
+#### Output Characteristics:
+
+- Clear structure
+
+- Balanced pros and cons
+
+- Actionable insights
+
+- High coherence
+
+### 2. Case Study Using Decision-Making Prompt
+#### Prompt:
+
+You are an educational consultant. A school wants to implement AI tools to improve student outcomes but is unsure whether to use adaptive learning platforms or AI tutors. Analyze both options with pros and cons, and recommend one based on scalability, cost, and engagement.
+
+#### Output Characteristics:
+
+- Evaluative tone
+
+- Simulates real-world decisions
+
+- Contains rationale and conclusion
+
+- Structured like a business case
+
+### 3. Article Using Semantic Filtering
+#### Prompt:
+
+Write a 600-word article on how AI improves student personalization in learning, using only evidence from peer-reviewed studies published after 2022. Use a formal tone suitable for an academic journal.
+
+#### Output Characteristics:
+
+- Fact-checked and research-aligned
+
+- Academic tone
+
+- No fluff or exaggeration
+
+- Precision-driven structure
+
+### 4. Creative Summary Using Style Prompting
+#### Prompt:
+
+Write a blog post for parents about how AI is helping kids learn better in school. Make it informal, friendly, and use simple language. Include an example story of a child using AI.
+
+#### Output Characteristics:
+
+- Reader-friendly tone
+
+- Storytelling and emotional connection
+
+- Simple, relatable language
+
+- Great for outreach or public communication
+
+## Side-by-Side Comparison Table
+
+| Feature       | Report                     | Case Study                | Article               | Blog                    |
+| ------------- | -------------------------- | ------------------------- | --------------------- | ----------------------- |
+| Prompt Type   | Query Decomposition        | Decision-Making           | Semantic Filtering    | Style Prompting         |
+| Structure     | Formal, sectioned          | Problem-Solution          | Evidence-driven       | Conversational          |
+| Target Reader | Policymakers, institutions | Business leaders, schools | Researchers, students | General public, parents |
+| Tone          | Analytical                 | Professional              | Academic              | Informal                |
+
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
